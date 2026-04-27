@@ -1,0 +1,6 @@
+warning
+info
+error123
+ERROR
+Fatal error
+critical error
