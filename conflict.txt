@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hello world
-=======
-hello devops
->>>>>>> conflict1
+
 hello world and hello devop
