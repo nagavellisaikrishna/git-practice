@@ -24,3 +24,6 @@ externalPort = 3001
 
 [workflows]
 runButton = "Project"
+
+[nix]
+packages = ["nano", "unixtools.ping", "iproute_mptcp", "dig"]
